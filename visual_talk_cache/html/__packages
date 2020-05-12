@@ -1,0 +1,17 @@
+base
+knitr
+rmdformats
+readxl
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+plotly
+ggthemes
+ggforce
+nycflights13

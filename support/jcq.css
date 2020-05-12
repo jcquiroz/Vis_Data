@@ -1,0 +1,22 @@
+#otrocolor {
+   color: #3b3a30;
+}
+
+.emphasized {
+   font-size: 1.2em;
+}
+
+.pull-left {
+    float: left;
+    width: 44%;
+  }
+  
+.pull-right {
+    float: right;
+    width: 44%;
+  }
+  
+.pull-right ~ p {
+    clear: both;
+  }
+

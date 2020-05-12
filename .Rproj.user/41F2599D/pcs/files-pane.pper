@@ -1,0 +1,13 @@
+{
+    "path" : "~/Documents/proyectos_internos/2020/visualizacion_datos/data",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

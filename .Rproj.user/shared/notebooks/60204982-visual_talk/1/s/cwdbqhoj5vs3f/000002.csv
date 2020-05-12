@@ -1,0 +1,6 @@
+"0","library(ggforce)"
+"0","library(nycflights13)"
+"0","library(readr)"
+"0","erizo <- read_csv(""data/erizoToy.csv"")"
+"0","tmp <- erizo %>% filter(ANO_REG >= 2016) %>% "
+"0","  select(poly = POLIGONO, lon = LONGITUD, lat = LATITUD)"

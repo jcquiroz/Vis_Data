@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588875130988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "858824068",
+    "id" : "C71B0325",
+    "lastKnownWriteTime" : 1589252384,
+    "last_content_update" : 1589252384942,
+    "path" : "~/Documents/proyectos_internos/2020/visualizacion_datos/visual_talk.Rmd",
+    "project_path" : "visual_talk.Rmd",
+    "properties" : {
+        "cursorPosition" : "106,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "78",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
